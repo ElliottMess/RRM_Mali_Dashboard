@@ -1,0 +1,71 @@
+Package: leafem
+Type: Package
+Title: 'leaflet' Extensions for 'mapview'
+Version: 0.1.1
+Date: 2020-04-05
+Authors@R: 
+    c(person(given = "Tim",
+             family = "Appelhans",
+             role = c("cre", "aut"),
+             email = "tim.appelhans@gmail.com"),
+      person(given = "Christoph",
+             family = "Reudenbach",
+             role = "ctb",
+             email = "reudenbach@geo.uni-marburg.de"),
+      person(given = "Kenton",
+             family = "Russell",
+             role = "ctb"),
+      person(given = "Jochen",
+             family = "Darley",
+             role = "ctb",
+             email = "Debugger@jedimasters.de"),
+      person(given = "Daniel",
+             family = "Montague",
+             role = c("ctb"), 
+             comment = "Leaflet.EasyButton plugin"),
+      person(given = "Lorenzo",
+             family = "Busetto",
+             role = c("ctb"), 
+             email = "lbusett@gmail.com"),
+      person(given = "Luigi",
+             family = "Ranghetti",
+             role = c("ctb")),
+      person(given = "Miles",
+             family = "McBain",
+             role = c("ctb")),
+      person(given = "Sebastian",
+             family = "Gatscha",
+             role = "ctb",
+             email = "sebastian_gatscha@gmx.at"))           
+Maintainer: Tim Appelhans <tim.appelhans@gmail.com>
+Description: Provides extensions for packages 'leaflet' & 'mapdeck', 
+    many of which are used by package 'mapview'. 
+    Focus is on functionality readily available in 
+    Geographic Information Systems such as 'Quantum GIS'. Includes functions
+    to display coordinates of mouse pointer position, query image values via 
+    mouse pointer and zoom-to-layer buttons. Additionally, provides a feature 
+    type agnostic function to add points, lines, polygons to a map.
+License: MIT + file LICENSE
+URL: https://github.com/r-spatial/leafem
+BugReports: https://github.com/r-spatial/leafem/issues
+Depends: R (>= 3.1.0)
+Imports: htmltools (>= 0.3), htmlwidgets, leaflet (>= 2.0.1), mapdeck,
+        raster, sf, sp, methods, base64enc, scales (>= 1.0.0), png
+Suggests: clipr, gdalUtils, plainview, stars
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+NeedsCompilation: no
+Packaged: 2020-04-05 11:01:42 UTC; timpanse
+Author: Tim Appelhans [cre, aut],
+  Christoph Reudenbach [ctb],
+  Kenton Russell [ctb],
+  Jochen Darley [ctb],
+  Daniel Montague [ctb] (Leaflet.EasyButton plugin),
+  Lorenzo Busetto [ctb],
+  Luigi Ranghetti [ctb],
+  Miles McBain [ctb],
+  Sebastian Gatscha [ctb]
+Repository: CRAN
+Date/Publication: 2020-04-05 11:40:02 UTC
+Built: R 3.6.3; ; 2020-07-10 15:13:36 UTC; unix

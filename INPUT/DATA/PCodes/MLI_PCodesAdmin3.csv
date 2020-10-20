@@ -1,0 +1,702 @@
+Admin1_Nam,Pcode_Ad_1,Admin2_Nam,Pcode_Ad_2,Admin3_Nam,Pcode_Ad_3,admin3RefN
+Kayes,ML01,Bafoulabe,ML0101,Tomora,ML010113,Tomora
+Kayes,ML01,Bafoulabe,ML0101,Sidibela,ML010112,Sidibela
+Kayes,ML01,Bafoulabe,ML0101,Niambia,ML010110,Niambia
+Kayes,ML01,Bafoulabe,ML0101,Kontela,ML010107,Kontela
+Kayes,ML01,Bafoulabe,ML0101,Diallan,ML010104,Diallan
+Kayes,ML01,Bafoulabe,ML0101,Diakon,ML010103,Diakon
+Kayes,ML01,Bafoulabe,ML0101,Bafoulabe,ML010101,Bafoulabe
+Kayes,ML01,Kenieba,ML0104,Sitakily,ML010412,Sitakily
+Kayes,ML01,Kenieba,ML0104,Sagalo,ML010411,Sagalo
+Kayes,ML01,Kenieba,ML0104,Guenegore,ML010407,Guenegore
+Kayes,ML01,Kenieba,ML0104,Baye,ML010401,Baye
+Kayes,ML01,Kita,ML0105,Kita Commune,ML010513,Kita Commune
+Kayes,ML01,Kita,ML0105,Niantanso,ML010524,Niantanso
+Koulikouro,ML02,Kati,ML0204,Sobra,ML020434,Sobra
+Kayes,ML01,Kita,ML0105,Makano,ML010522,Makano
+Koulikouro,ML02,Kati,ML0204,Bossofala,ML020403,Bossofala
+Koulikouro,ML02,Kati,ML0204,Mountougoula,ML020422,Mountougoula
+Koulikouro,ML02,Kati,ML0204,N'gouraba,ML020424,Ngouraba
+Sikasso,ML03,Bougouni,ML0301,Tiemala Banimonotie,ML030122,Tiemala-Baninomotie
+Koulikouro,ML02,Koulikoro,ML0206,Tougouni,ML020609,Tougouni
+Koulikouro,ML02,Koulikoro,ML0206,Dinandougou,ML020601,Dinandougou
+Segou,ML04,Baroueli,ML0401,Boidie,ML040102,Boidie
+Koulikouro,ML02,Koulikoro,ML0206,Nyamina,ML020606,Nyamina
+Segou,ML04,Baroueli,ML0401,Tamani,ML040110,Tamani
+Kayes,ML01,Kita,ML0105,Gadougou 1,ML010509,Gadougou 1
+Kayes,ML01,Kita,ML0105,Djougoun,ML010508,Djougoun
+Kayes,ML01,Kita,ML0105,Bougarybaya,ML010505,Bougarybaya
+Kayes,ML01,Kita,ML0105,Badia,ML010501,Badia
+Kayes,ML01,Kayes,ML0103,Fegui,ML010306,Fegui
+Kayes,ML01,Kayes,ML0103,Kayes Commune,ML010312,Kayes Commune
+Kayes,ML01,Kayes,ML0103,Tafacirga,ML010328,Tafacirga
+Kayes,ML01,Kayes,ML0103,Sero Diamanou,ML010325,Sero Diamanou
+Kayes,ML01,Kayes,ML0103,Segala,ML010324,Segala
+Kayes,ML01,Kayes,ML0103,Sahel,ML010322,Sahel
+Kayes,ML01,Kayes,ML0103,Sadiola,ML010321,Sadiola
+Kayes,ML01,Kayes,ML0103,Logo,ML010318,Logo
+Kayes,ML01,Kayes,ML0103,Koussane,ML010316,Koussane
+Kayes,ML01,Kayes,ML0103,Hawa Dembaya,ML010310,Hawa Dembaya
+Kayes,ML01,Kayes,ML0103,Faleme,ML010305,Faleme
+Kayes,ML01,Kayes,ML0103,Djelebou,ML010304,Djelebou
+Kayes,ML01,Kayes,ML0103,Diamou,ML010303,Diamou
+Koulikouro,ML02,Kati,ML0204,N'tjiba,ML020427,Ntjiba
+Kayes,ML01,Kita,ML0105,Kotouba,ML010518,Kotouba
+Koulikouro,ML02,Kati,ML0204,Daban,ML020405,Daban
+Kayes,ML01,Kita,ML0105,Kassaro,ML010512,Kassaro
+Sikasso,ML03,Bougouni,ML0301,Bougouni Commune,ML030102,Bougouni Commune
+Segou,ML04,Segou,ML0406,Souba,ML040629,Souba
+Segou,ML04,Baroueli,ML0401,Somo,ML040109,Somo
+Sikasso,ML03,Bougouni,ML0301,Sido,ML030120,Sido
+Sikasso,ML03,Sikasso,ML0305,Nongo-Souala,ML030532,Nongo-Souala
+Sikasso,ML03,Sikasso,ML0305,Kouoro,ML030524,Kouoro
+Tombouctou,ML06,Tombouctou,ML0605,Bourem Inaly,ML060503,Bourem Inaly
+Kayes,ML01,Kayes,ML0103,Colimbine,ML010302,Colimbine
+Kayes,ML01,Kayes,ML0103,Goumera,ML010308,Goumera
+Kayes,ML01,Diema,ML0102,Madiga Sacko,ML010214,Madiga Sacko
+Kayes,ML01,Diema,ML0102,Lakamane,ML010212,Lakamane
+Kayes,ML01,Diema,ML0102,Dieoura,ML010205,Dieoura
+Kayes,ML01,Diema,ML0102,Diema,ML010204,Diema
+Kayes,ML01,Diema,ML0102,Diangounte Camara,ML010202,Diangounte Camara
+Kayes,ML01,Diema,ML0102,Bema,ML010201,Bema
+Kayes,ML01,Diema,ML0102,Fatao,ML010208,Fatao
+Kayes,ML01,Yelimane,ML0107,Toya,ML010711,Toya
+Kayes,ML01,Yelimane,ML0107,Tringa,ML010712,Tringa
+Kayes,ML01,Yelimane,ML0107,Kremis,ML010708,Kremis
+Kayes,ML01,Yelimane,ML0107,Konsiga,ML010707,Konsiga
+Kayes,ML01,Yelimane,ML0107,Kirane Kaniaga,ML010706,Kirane Kaniaga
+Kayes,ML01,Yelimane,ML0107,Guidime,ML010705,Guidime
+Kayes,ML01,Yelimane,ML0107,Fanga,ML010703,Fanga
+Kayes,ML01,Yelimane,ML0107,Diafounou Gory,ML010702,Diafounou Gory
+Kayes,ML01,Nioro,ML0106,Nioro Commune,ML010610,Nioro Commune
+Kayes,ML01,Nioro,ML0106,Yerere,ML010615,Yerere
+Kayes,ML01,Nioro,ML0106,Simbi,ML010613,Simbi
+Kayes,ML01,Nioro,ML0106,Sandare,ML010612,Sandare
+Kayes,ML01,Nioro,ML0106,Korera Kore,ML010609,Korera Kore
+Kayes,ML01,Nioro,ML0106,Guetema,ML010607,Guetema
+Kayes,ML01,Nioro,ML0106,Gogui,ML010606,Gogui
+Kayes,ML01,Nioro,ML0106,Gavinane,ML010605,Gavinane
+Kayes,ML01,Nioro,ML0106,Diarra,ML010603,Diarra
+Kayes,ML01,Nioro,ML0106,Diabigue,ML010602,Diabigue
+Kayes,ML01,Nioro,ML0106,Baniere Kore,ML010601,Baniere Kore
+Koulikouro,ML02,Banamba,ML0201,Toukoroba,ML020109,Toukoroba
+Koulikouro,ML02,Banamba,ML0201,Sebete,ML020107,Sebete
+Koulikouro,ML02,Banamba,ML0201,Madina Sacko,ML020106,Madina Sacko
+Koulikouro,ML02,Banamba,ML0201,Kiban,ML020105,Kiban
+Koulikouro,ML02,Banamba,ML0201,Duguwolowula,ML020104,Duguwolowula
+Koulikouro,ML02,Banamba,ML0201,Ben Kadi,ML020102,Ben Kadi
+Koulikouro,ML02,Banamba,ML0201,Banamba,ML020101,Banamba
+Koulikouro,ML02,Banamba,ML0201,Toubacoro,ML020108,Toubacoro
+Koulikouro,ML02,Kangaba,ML0203,Karan Commune,ML020304,Karan Commune
+Koulikouro,ML02,Kangaba,ML0203,Nouga,ML020308,Nouga
+Koulikouro,ML02,Kangaba,ML0203,Narena,ML020307,Narena
+Koulikouro,ML02,Kangaba,ML0203,Balan Bakama,ML020301,Balan Bakama
+Koulikouro,ML02,Kangaba,ML0203,Benkadi,ML020302,Benkadi
+Koulikouro,ML02,Kati,ML0204,Kati Commune,ML020418,Kati Commune
+Koulikouro,ML02,Kati,ML0204,Siby,ML020433,Siby
+Koulikouro,ML02,Kati,ML0204,Ouelessebougou,ML020428,Ouelessebougou
+Segou,ML04,Segou,ML0406,Konodimini,ML040615,Konodimini
+Sikasso,ML03,Bougouni,ML0301,Keleya,ML030111,Keleya
+Sikasso,ML03,Bougouni,ML0301,Danou,ML030103,Danou
+Sikasso,ML03,Sikasso,ML0305,Kabarasso,ML030514,Kabarasso
+Koulikouro,ML02,Dioila,ML0202,Niantjila,ML020220,Niantjila
+Koulikouro,ML02,Kati,ML0204,Nioumakana,ML020426,Nioumakana
+Koulikouro,ML02,Kati,ML0204,Kalifabougou,ML020416,Kalifabougou
+Koulikouro,ML02,Kati,ML0204,Doubabougou,ML020413,Doubabougou
+Koulikouro,ML02,Kati,ML0204,Dio Gare,ML020410,Dio Gare
+Koulikouro,ML02,Kati,ML0204,Diedougou,ML020409,Diedougou
+Koulikouro,ML02,Kati,ML0204,Bougoula,ML020404,Bougoula
+Koulikouro,ML02,Kati,ML0204,Moribabougou,ML020421,Moribabougou
+Koulikouro,ML02,Kolokani,ML0205,Tioribougou,ML020510,Tioribougou
+Koulikouro,ML02,Kolokani,ML0205,Ouolodo,ML020507,Ouolodo
+Koulikouro,ML02,Kolokani,ML0205,Nossombougou,ML020506,Nossombougou
+Koulikouro,ML02,Kolokani,ML0205,Nonkon,ML020505,Nonkon
+Koulikouro,ML02,Kolokani,ML0205,Massantola,ML020504,Massantola
+Koulikouro,ML02,Kolokani,ML0205,Kolokani,ML020503,Kolokani
+Koulikouro,ML02,Koulikoro,ML0206,Koulikoro Commune,ML020604,Koulikoro Commune
+Sikasso,ML03,Bougouni,ML0301,Yinindougou,ML030124,Yinindougou
+Segou,ML04,Segou,ML0406,Segou Commune,ML040626,Segou Commune
+Koulikouro,ML02,Kati,ML0204,Sanankoro Djitoumou,ML020430,Sanankoro Djitoumou
+Sikasso,ML03,Yanfolila,ML0306,Wassoulou Balle,ML030611,Wassoulou Balle
+Sikasso,ML03,Koutiala,ML0304,Zangasso,ML030434,Zangasso
+Sikasso,ML03,Koutiala,ML0304,Diouradougou Kafo,ML030402,Diouradougou Kafo
+Koulikouro,ML02,Dioila,ML0202,Banco,ML020201,Banco
+Koulikouro,ML02,Dioila,ML0202,Zan Coulibaly,ML020223,Zan Coulibaly
+Koulikouro,ML02,Dioila,ML0202,N'golobougou,ML020219,Ngolobougou
+Koulikouro,ML02,Dioila,ML0202,Kerela,ML020213,Kerela
+Koulikouro,ML02,Dioila,ML0202,Degnekoro,ML020204,Degnekoro
+Koulikouro,ML02,Dioila,ML0202,Binko,ML020203,Binko
+Koulikouro,ML02,Nara,ML0207,Ouagadou,ML020711,Ouagadou
+Koulikouro,ML02,Nara,ML0207,Niamana,ML020710,Niamana
+Koulikouro,ML02,Nara,ML0207,Nara,ML020709,Nara
+Koulikouro,ML02,Nara,ML0207,Koronga,ML020708,Koronga
+Koulikouro,ML02,Nara,ML0207,Guire,ML020707,Guire
+Koulikouro,ML02,Nara,ML0207,Gueneibe,ML020706,Gueneibe
+Sikasso,ML03,Yanfolila,ML0306,Gouanan,ML030605,Gouanan
+Koulikouro,ML02,Kati,ML0204,Tiele,ML020436,Tiele
+Koulikouro,ML02,Dioila,ML0202,Kemekafo,ML020212,Kemekafo
+Sikasso,ML03,Yanfolila,ML0306,Sere Moussa Ani Samo,ML030609,Sere Moussa Ani Samo
+Sikasso,ML03,Sikasso,ML0305,Koumankou,ML030523,Koumankou
+Koulikouro,ML02,Dioila,ML0202,Diebe,ML020205,Diebe
+Koulikouro,ML02,Dioila,ML0202,Jekafo,ML020210,Jekafo
+Koulikouro,ML02,Dioila,ML0202,Nangola,ML020216,Nangola
+Koulikouro,ML02,Nara,ML0207,Fallou,ML020705,Fallou
+Koulikouro,ML02,Nara,ML0207,Dogofry,ML020704,Dogofry
+Koulikouro,ML02,Nara,ML0207,Dilly,ML020703,Dilly
+Koulikouro,ML02,Nara,ML0207,Dabo,ML020702,Dabo
+Koulikouro,ML02,Nara,ML0207,Allahina,ML020701,Allahina
+Koulikouro,ML02,Banamba,ML0201,Boron,ML020103,Boron
+Sikasso,ML03,Bougouni,ML0301,Bladie-Tiemala,ML030101,Bladie-Tiemala
+Sikasso,ML03,Bougouni,ML0301,Faragouaran,ML030109,Faragouaran
+Segou,ML04,Macina,ML0403,Monimpebougou,ML040307,Monimpebougou
+Segou,ML04,Macina,ML0403,Macina,ML040305,Macina
+Segou,ML04,Macina,ML0403,Kolongo,ML040304,Kolongo
+Segou,ML04,Macina,ML0403,Kokry Centre,ML040303,Kokry Centre
+Segou,ML04,Macina,ML0403,Folomana,ML040302,Folomana
+Segou,ML04,Macina,ML0403,Boky Were,ML040301,Boky Were
+Segou,ML04,Tominian,ML0407,Tominian,ML040711,Tominian
+Mopti,ML05,Djenne,ML0503,Djenne Commune,ML050303,Djenne Commune
+Mopti,ML05,Djenne,ML0503,Pondori,ML050311,Pondori
+Mopti,ML05,Djenne,ML0503,Nema Badenyakafo,ML050308,Nema Badenyakafo
+Mopti,ML05,Djenne,ML0503,Madiama,ML050307,Madiama
+Mopti,ML05,Djenne,ML0503,Derrary,ML050302,Derrary
+Mopti,ML05,Douentza,ML0504,Douentza Commune,ML050406,Douentza Commune
+Mopti,ML05,Douentza,ML0504,Tedie,ML050415,Tedie
+Mopti,ML05,Douentza,ML0504,Mondoro,ML050413,Mondoro
+Mopti,ML05,Douentza,ML0504,Korarou,ML050411,Korarou
+Mopti,ML05,Douentza,ML0504,Kerena,ML050410,Kerena
+Mopti,ML05,Douentza,ML0504,Hombori,ML050409,Hombori
+Mopti,ML05,Douentza,ML0504,Haire,ML050408,Haire
+Mopti,ML05,Douentza,ML0504,Gandamia,ML050407,Gandamia
+Mopti,ML05,Douentza,ML0504,Djaptodji,ML050405,Djaptodji
+Mopti,ML05,Douentza,ML0504,Dianwely,ML050404,Dianwely
+Mopti,ML05,Douentza,ML0504,Debere,ML050403,Debere
+Mopti,ML05,Douentza,ML0504,Dangol Bore,ML050402,Dangol Bore
+Mopti,ML05,Mopti,ML0506,Mopti Commune,ML050609,Mopti Commune
+Mopti,ML05,Mopti,ML0506,Sasalbe,ML050612,Sasalbe
+Sikasso,ML03,Bougouni,ML0301,Zantiebougou,ML030126,Zantiebougou
+Sikasso,ML03,Bougouni,ML0301,Kokele,ML030112,Kokele
+Koulikouro,ML02,Kati,ML0204,Mande,ML020420,Mande
+Mopti,ML05,Koro,ML0505,Yoro,ML050515,Yoro
+Mopti,ML05,Koro,ML0505,Madougou,ML050513,Madougou
+Mopti,ML05,Koro,ML0505,Koro,ML050512,Koro
+Mopti,ML05,Koro,ML0505,Koporokendie Na,ML050511,Koporokendie Na
+Mopti,ML05,Koro,ML0505,Koporo Pen,ML050510,Koporo Pen
+Mopti,ML05,Koro,ML0505,Kassa,ML050509,Kassa
+Mopti,ML05,Koro,ML0505,Dougoutene 2,ML050508,Dougoutene 2
+Mopti,ML05,Koro,ML0505,Dougoutene 1,ML050507,Dougoutene 1
+Mopti,ML05,Koro,ML0505,Diougani,ML050506,Diougani
+Mopti,ML05,Koro,ML0505,Dinangourou,ML050505,Dinangourou
+Mopti,ML05,Koro,ML0505,Diankabou,ML050504,Diankabou
+Mopti,ML05,Koro,ML0505,Bondo,ML050503,Bondo
+Mopti,ML05,Bankass,ML0502,Ouonkoro,ML050208,Ouonkoro
+Mopti,ML05,Bankass,ML0502,Sokoura,ML050210,Sokoura
+Mopti,ML05,Bankass,ML0502,Tori,ML050212,Tori
+Mopti,ML05,Bankass,ML0502,Baye,ML050202,Baye
+Mopti,ML05,Bankass,ML0502,Diallassagou,ML050203,Diallassagou
+Mopti,ML05,Bankass,ML0502,Koulogon Habe,ML050206,Koulogon Habe
+Mopti,ML05,Bankass,ML0502,Segue,ML050209,Segue
+Mopti,ML05,Bankass,ML0502,Soubala,ML050211,Soubala
+Mopti,ML05,Bankass,ML0502,Bankass,ML050201,Bankass
+Mopti,ML05,Bankass,ML0502,Dimbal Habe,ML050204,Dimbal Habe
+Mopti,ML05,Bankass,ML0502,Kani Bozon,ML050205,Kani Bozon
+Mopti,ML05,Bandiagara,ML0501,Bandiagara Commune,ML050101,Bandiagara Commune
+Mopti,ML05,Bandiagara,ML0501,Timiri,ML050120,Timiri
+Mopti,ML05,Bandiagara,ML0501,Soroly,ML050119,Soroly
+Mopti,ML05,Bandiagara,ML0501,Sangha,ML050117,Sangha
+Mopti,ML05,Bandiagara,ML0501,Pignari Bana,ML050116,Pignari Bana
+Mopti,ML05,Bandiagara,ML0501,Pignari,ML050115,Pignari
+Mopti,ML05,Bandiagara,ML0501,Lowol Gueou,ML050111,Lowol Gueou
+Mopti,ML05,Bandiagara,ML0501,Kendie,ML050110,Kendie
+Mopti,ML05,Bandiagara,ML0501,Dourou,ML050108,Dourou
+Mopti,ML05,Bandiagara,ML0501,Dogani Bere,ML050106,Dogani Bere
+Mopti,ML05,Bandiagara,ML0501,Bara Sara,ML050102,Bara Sara
+Mopti,ML05,Bandiagara,ML0501,Segue Ire,ML050118,Segue Ire
+Mopti,ML05,Youwarou,ML0508,Youwarou,ML050807,Youwarou
+Mopti,ML05,Youwarou,ML0508,N'dodjiga,ML050806,Ndodjiga
+Mopti,ML05,Youwarou,ML0508,Farimake,ML050805,Farimake
+Mopti,ML05,Youwarou,ML0508,Dongo,ML050804,Dongo
+Mopti,ML05,Youwarou,ML0508,Bimbere Tama,ML050801,Bimbere Tama
+Mopti,ML05,Tenenkou,ML0507,Tenenkou Commune,ML050708,Tenenkou Commune
+Mopti,ML05,Tenenkou,ML0507,Toguere-Coumbe,ML050710,Toguere-Coumbe
+Mopti,ML05,Tenenkou,ML0507,Togoro Kotia,ML050709,Togoro Kotia
+Mopti,ML05,Tenenkou,ML0507,Sougoulbe,ML050707,Sougoulbe
+Mopti,ML05,Tenenkou,ML0507,Diondiori,ML050703,Diondori
+Mopti,ML05,Tenenkou,ML0507,Diaka,ML050702,Diaka
+Tombouctou,ML06,Niafunke,ML0604,Dianke,ML060402,Dianke
+Tombouctou,ML06,Niafunke,ML0604,Fittouga,ML060403,Fittouga
+Tombouctou,ML06,Niafunke,ML0604,Koumaira,ML060404,Koumaira
+Tombouctou,ML06,Niafunke,ML0604,Lere,ML060405,Lere
+Tombouctou,ML06,Niafunke,ML0604,Soboundou,ML060407,Souboundou
+Tombouctou,ML06,Niafunke,ML0604,Soumpi,ML060408,Soumpi
+Tombouctou,ML06,Tombouctou,ML0605,Ber,ML060502,Ber
+Sikasso,ML03,Bougouni,ML0301,Defina,ML030105,Defina
+Tombouctou,ML06,Dire,ML0601,Dangha,ML060104,Dangha
+Tombouctou,ML06,Dire,ML0601,Haibongo,ML060107,Haibongo
+Tombouctou,ML06,Dire,ML0601,Kirchamba,ML060108,Kirchamba
+Tombouctou,ML06,Dire,ML0601,Kondi,ML060109,Kondi
+Tombouctou,ML06,Dire,ML0601,Sareyamou,ML060110,Sareyamou
+Tombouctou,ML06,Dire,ML0601,Dire,ML060105,Dire
+Tombouctou,ML06,Goundam,ML0602,Tilemsi,ML060214,Tilemsi
+Tombouctou,ML06,Goundam,ML0602,Bintagoungou,ML060203,Bintagoungou
+Tombouctou,ML06,Goundam,ML0602,Douekire,ML060204,Douekire
+Tombouctou,ML06,Goundam,ML0602,Essakane,ML060206,Essakane
+Tombouctou,ML06,Goundam,ML0602,Kaneye,ML060210,Kaneye
+Tombouctou,ML06,Goundam,ML0602,M'bouna,ML060211,Mbouna
+Tombouctou,ML06,Goundam,ML0602,Razelma,ML060212,Razelma
+Kayes,ML01,Kenieba,ML0104,Dombia,ML010404,Dombia
+Kayes,ML01,Kita,ML0105,Souransan Tomoto,ML010531,Souransan Tomoto
+Kayes,ML01,Kita,ML0105,Sefeto Nord,ML010527,Sefeto Nord
+Sikasso,ML03,Yanfolila,ML0306,Koussan,ML030607,Koussan
+Kayes,ML01,Kita,ML0105,Kita Nord,ML010514,Kita Nord
+Kayes,ML01,Kayes,ML0103,Koniakary,ML010315,Koniakary
+Kayes,ML01,Kayes,ML0103,Marintoumania,ML010320,Marintoumania
+Kayes,ML01,Kayes,ML0103,Marena Diombougou,ML010319,Marena Diombougou
+Kayes,ML01,Kayes,ML0103,Khouloum,ML010314,Khouloum
+Kayes,ML01,Kayes,ML0103,Karakoro,ML010311,Karakoro
+Sikasso,ML03,Bougouni,ML0301,Kouroulamini,ML030115,Kouroulamini
+Sikasso,ML03,Bougouni,ML0301,Faradiele,ML030108,Faradiele
+Segou,ML04,Baroueli,ML0401,Dougoufie,ML040103,Dougoufie
+Segou,ML04,Segou,ML0406,Sama Foulala,ML040622,Sama Foulala
+Sikasso,ML03,Sikasso,ML0305,Benkadi,ML030501,Benkadi
+Kayes,ML01,Kayes,ML0103,Gory Gopela,ML010307,Gory Gopela
+Kayes,ML01,Diema,ML0102,Sansankide,ML010215,Sansankide
+Kayes,ML01,Diema,ML0102,Guedebine,ML010211,Guedebine
+Kayes,ML01,Diema,ML0102,Groumera,ML010210,Groumera
+Kayes,ML01,Diema,ML0102,Gomitradougou,ML010209,Gomitradougou
+Kayes,ML01,Diema,ML0102,Fassou Debe,ML010207,Fassou Debe
+Kayes,ML01,Diema,ML0102,Lambidou,ML010213,Lambidou
+Kayes,ML01,Yelimane,ML0107,Soumpou,ML010710,Soumpou
+Kayes,ML01,Yelimane,ML0107,Marekaffo,ML010709,Marekaffo
+Kayes,ML01,Yelimane,ML0107,Gory,ML010704,Gory
+Kayes,ML01,Yelimane,ML0107,Diafounou Diongaga,ML010701,Diafounou Diongaga
+Kayes,ML01,Nioro,ML0106,Youri,ML010616,Youri
+Kayes,ML01,Nioro,ML0106,Troungoumbe,ML010614,Troungoumbe
+Kayes,ML01,Nioro,ML0106,Nioro Tougoune Ranga,ML010611,Nioro Tougoune Ranga
+Kayes,ML01,Nioro,ML0106,Kadiaba Kadiel,ML010608,Kadiaba Kadiel
+Kayes,ML01,Nioro,ML0106,Diaye Coura,ML010604,Diaye Coura
+Koulikouro,ML02,Kati,ML0204,Sangarebougou,ML020432,Sangarebougou
+Segou,ML04,Segou,ML0406,Farako,ML040610,Farako
+Tombouctou,ML06,Tombouctou,ML0605,Alafia,ML060501,Alafia
+Koulikouro,ML02,Kati,ML0204,Dialakorodji,ML020408,Dialakorodji
+Koulikouro,ML02,Kati,ML0204,Diago,ML020406,Diago
+Koulikouro,ML02,Kati,ML0204,Dombila,ML020412,Dombila
+Segou,ML04,Segou,ML0406,Sebougou,ML040625,Sebougou
+Segou,ML04,Segou,ML0406,Diganibougou,ML040606,Diganibougou
+Sikasso,ML03,Koutiala,ML0304,N'golonianasso,ML030422,Ngolonianasso
+Sikasso,ML03,Koutiala,ML0304,Fagui,ML030403,Fagui
+Sikasso,ML03,Sikasso,ML0305,Tella,ML030538,Tella
+Koulikouro,ML02,Dioila,ML0202,Wacoro,ML020222,Wacoro
+Koulikouro,ML02,Dioila,ML0202,Diouman,ML020207,Diouman
+Koulikouro,ML02,Dioila,ML0202,Kilidougou,ML020214,Kilidougou
+Sikasso,ML03,Kolondieba,ML0303,N'golodiana,ML030310,Ngolodiana
+Sikasso,ML03,Bougouni,ML0301,Syen Toula,ML030121,Chantoula
+Sikasso,ML03,Yanfolila,ML0306,Tagandougou,ML030610,Tagandougou
+Sikasso,ML03,Koutiala,ML0304,Sinkolo,ML030427,Sinkolo
+Koulikouro,ML02,Dioila,ML0202,Dolendougou,ML020208,Dolendougou
+Koulikouro,ML02,Dioila,ML0202,Benkadi,ML020202,Benkadi
+Sikasso,ML03,Koutiala,ML0304,Fakolo,ML030404,Fakolo
+Sikasso,ML03,Koutiala,ML0304,Gouadji Kao,ML030406,Gouadji Kao
+Sikasso,ML03,Koutiala,ML0304,Karagouana Malle,ML030409,Karagouana Malle
+Sikasso,ML03,Koutiala,ML0304,Koningue,ML030412,Koningue
+Sikasso,ML03,Koutiala,ML0304,Logouana,ML030417,Logouana
+Sikasso,ML03,Koutiala,ML0304,Nafanga,ML030420,Nafanga
+Sikasso,ML03,Koutiala,ML0304,Nampe,ML030421,Nampe
+Sikasso,ML03,Koutiala,ML0304,N'goutjina,ML030423,Ngoutjina
+Sikasso,ML03,Koutiala,ML0304,Sincina,ML030426,Sincina
+Sikasso,ML03,Koutiala,ML0304,Songo Doubacoro,ML030428,Songo-Doubakore
+Sikasso,ML03,Koutiala,ML0304,Sorobasso,ML030430,Sorobasso
+Sikasso,ML03,Koutiala,ML0304,Tao,ML030431,Tao
+Sikasso,ML03,Koutiala,ML0304,Zanina,ML030435,Zanina
+Sikasso,ML03,Kolondieba,ML0303,Bougoula,ML030301,Bougoula
+Sikasso,ML03,Sikasso,ML0305,Zanferebougou,ML030541,Zanferebougou
+Sikasso,ML03,Sikasso,ML0305,Tiankadi,ML030539,Tiankadi
+Sikasso,ML03,Sikasso,ML0305,Sokourani Missirikoro,ML030537,Missirikoro Sokouran
+Sikasso,ML03,Sikasso,ML0305,Sanzana,ML030535,Sanzana
+Sikasso,ML03,Sikasso,ML0305,Pimperna,ML030534,Pimperna
+Sikasso,ML03,Sikasso,ML0305,Dialakoro,ML030505,Dialakoro
+Sikasso,ML03,Yanfolila,ML0306,Yallankoro-Soloba,ML030612,Yallankoro-Soloba
+Sikasso,ML03,Yorosso,ML0307,Menamba 1,ML030707,Menamba 1
+Segou,ML04,Baroueli,ML0401,Tesserla,ML040111,Tesserla
+Segou,ML04,Niono,ML0404,Yeredon Saniona,ML040412,Yeredon Sanio
+Segou,ML04,Niono,ML0404,Toridaga Ko,ML040411,Toridaga
+Segou,ML04,San,ML0405,Diakourouna,ML040503,Diakourouna
+Segou,ML04,San,ML0405,Djeguena,ML040505,Djeguena
+Segou,ML04,San,ML0405,Karaba,ML040508,Karaba
+Segou,ML04,San,ML0405,Niamana,ML040513,Niamana
+Segou,ML04,San,ML0405,N'torosso,ML040515,Ntorosso
+Segou,ML04,San,ML0405,Sourountouna,ML040520,Sourountouna
+Segou,ML04,San,ML0405,Tene,ML040522,Tene
+Segou,ML04,San,ML0405,Waki,ML040525,Waki
+Segou,ML04,San,ML0405,Kassorola,ML040509,Kassorola
+Segou,ML04,San,ML0405,Kaniegue,ML040507,Kaniegue
+Segou,ML04,San,ML0405,Dieli,ML040504,Dieli
+Segou,ML04,Bla,ML0402,Koulandougou,ML040211,Koulandougou
+Segou,ML04,Bla,ML0402,Samabogo,ML040213,Samabogo
+Segou,ML04,Bla,ML0402,Tiemena,ML040215,Tiemena
+Segou,ML04,Segou,ML0406,Sakoiba,ML040621,Sakoiba
+Segou,ML04,Segou,ML0406,Pelengana,ML040620,Pelengana
+Segou,ML04,Segou,ML0406,N'gara,ML040618,Ngara
+Segou,ML04,Segou,ML0406,Markala,ML040616,Markala
+Segou,ML04,Segou,ML0406,Farakou Massa,ML040611,Farakou Massa
+Segou,ML04,Segou,ML0406,Dougabougou,ML040609,Dougabougou
+Segou,ML04,Segou,ML0406,Diouna,ML040608,Diouna
+Segou,ML04,Segou,ML0406,Dioro,ML040607,Dioro
+Segou,ML04,Segou,ML0406,Diedougou,ML040605,Diedougou
+Segou,ML04,Macina,ML0403,Tongue,ML040311,Tongue
+Segou,ML04,Macina,ML0403,Matomo,ML040306,Matomo
+Segou,ML04,Tominian,ML0407,Benena,ML040701,Benena
+Segou,ML04,Tominian,ML0407,Fangasso,ML040703,Fangasso
+Segou,ML04,Tominian,ML0407,Koula,ML040704,Koula
+Segou,ML04,Tominian,ML0407,Mafoune,ML040706,Mafoune
+Segou,ML04,Tominian,ML0407,Ouan,ML040708,Ouan
+Segou,ML04,Tominian,ML0407,Mandiakuy,ML040707,Mandiakuy
+Segou,ML04,Tominian,ML0407,Lanfiala,ML040705,Lanfiala
+Sikasso,ML03,Bougouni,ML0301,Ouroun,ML030117,Ouroun
+Sikasso,ML03,Kadiolo,ML0302,Diou,ML030201,Diou
+Sikasso,ML03,Kadiolo,ML0302,Kai,ML030205,Kai
+Sikasso,ML03,Bougouni,ML0301,Garalo,ML030110,Garalo
+Sikasso,ML03,Bougouni,ML0301,Domba,ML030107,Domba
+Sikasso,ML03,Yanfolila,ML0306,Sankarani,ML030608,Sankarani
+Koulikouro,ML02,Kangaba,ML0203,Kaniogo,ML020303,Kaniogo
+Koulikouro,ML02,Kangaba,ML0203,Maramandougou,ML020305,Maramandougou
+Koulikouro,ML02,Kangaba,ML0203,Minidian,ML020306,Minidian
+Koulikouro,ML02,Dioila,ML0202,Diedougou,ML020206,Diedougou
+Sikasso,ML03,Kadiolo,ML0302,Nimbougou,ML030208,Nimbougou
+Sikasso,ML03,Kadiolo,ML0302,Zegoua,ML030209,Zegoua
+Sikasso,ML03,Koutiala,ML0304,Gouadie Sougouna,ML030405,Goudie Sougouna
+Sikasso,ML03,Koutiala,ML0304,Kafo Faboli,ML030407,Kafo Faboli
+Sikasso,ML03,Koutiala,ML0304,Kapala,ML030408,Kapala
+Sikasso,ML03,Koutiala,ML0304,Kolonigue,ML030410,Kolonigue
+Sikasso,ML03,Koutiala,ML0304,Kouniana,ML030415,Kouniana
+Sikasso,ML03,Koutiala,ML0304,Miena,ML030418,Miena
+Sikasso,ML03,Koutiala,ML0304,M'pessoba,ML030419,Mpessoba
+Sikasso,ML03,Koutiala,ML0304,N'tossoni,ML030425,Ntossoni
+Sikasso,ML03,Koutiala,ML0304,Songoua,ML030429,Songoua
+Sikasso,ML03,Koutiala,ML0304,Yognogo,ML030432,Yognogo
+Sikasso,ML03,Koutiala,ML0304,Zanfigue,ML030433,Zanfigue
+Sikasso,ML03,Kolondieba,ML0303,Fakola,ML030302,Fakola
+Sikasso,ML03,Koutiala,ML0304,Konina,ML030411,Konina
+Sikasso,ML03,Koutiala,ML0304,Diedougou,ML030401,Diedougou
+Sikasso,ML03,Koutiala,ML0304,Zebala,ML030436,Zebala
+Sikasso,ML03,Kolondieba,ML0303,Kebila,ML030305,Kebila
+Sikasso,ML03,Kolondieba,ML0303,Mena,ML030308,Mena
+Sikasso,ML03,Sikasso,ML0305,Natien,ML030530,Natien
+Sikasso,ML03,Sikasso,ML0305,N'tjikouna,ML030533,Ntjikouna
+Sikasso,ML03,Sikasso,ML0305,Missirikoro,ML030529,Missirikoro
+Sikasso,ML03,Sikasso,ML0305,Miria,ML030528,Miria
+Sikasso,ML03,Sikasso,ML0305,Kourouma,ML030525,Kourouma
+Sikasso,ML03,Sikasso,ML0305,Kolokoba,ML030522,Kolokoba
+Sikasso,ML03,Sikasso,ML0305,Kofan,ML030521,Kofan
+Sikasso,ML03,Sikasso,ML0305,Klela,ML030520,Klela
+Kayes,ML01,Kita,ML0105,Dindanko,ML010506,Dindanko
+Kayes,ML01,Kita,ML0105,Madina,ML010521,Madina
+Koulikouro,ML02,Kati,ML0204,Faraba,ML020414,Faraba
+Koulikouro,ML02,Kati,ML0204,Tiakadougou Dialakoro,ML020435,Tiakadougou Dialakor
+Sikasso,ML03,Yanfolila,ML0306,Baya,ML030601,Baya
+Koulikouro,ML02,Kangaba,ML0203,Selefougou,ML020309,Selefougou
+Koulikouro,ML02,Dioila,ML0202,N'dlondougou,ML020217,Ndlondougou
+Sikasso,ML03,Sikasso,ML0305,Dogoni,ML030507,Dogoni
+Sikasso,ML03,Sikasso,ML0305,Dembela,ML030504,Dembela
+Sikasso,ML03,Sikasso,ML0305,Kignan,ML030519,Kignan
+Sikasso,ML03,Sikasso,ML0305,Kapolondougou,ML030518,Kapolondougou
+Sikasso,ML03,Sikasso,ML0305,Kapala,ML030517,Kapala
+Sikasso,ML03,Sikasso,ML0305,Gongasso,ML030513,Gongasso
+Sikasso,ML03,Sikasso,ML0305,Farakala,ML030510,Farakala
+Sikasso,ML03,Sikasso,ML0305,Doumanaba,ML030508,Doumanaba
+Sikasso,ML03,Sikasso,ML0305,Blendio,ML030502,Blendio
+Sikasso,ML03,Sikasso,ML0305,Finkolo,ML030511,Finkolo
+Sikasso,ML03,Yanfolila,ML0306,Bolo-Fouta,ML030602,Bolo-Fouta
+Sikasso,ML03,Yanfolila,ML0306,Djallon-Foula,ML030603,Djallon-Foula
+Sikasso,ML03,Yorosso,ML0307,Boura,ML030701,Boura
+Sikasso,ML03,Yorosso,ML0307,Karangana,ML030702,Karangana
+Sikasso,ML03,Yorosso,ML0307,Kiffosso 1,ML030703,Kiffosso1
+Sikasso,ML03,Yorosso,ML0307,Koumbia,ML030704,Koumba
+Sikasso,ML03,Yorosso,ML0307,Koury,ML030705,Koury
+Kayes,ML01,Kita,ML0105,Guemoukouraba,ML010511,Guemoukouraba
+Kayes,ML01,Diema,ML0102,Dianguirde,ML010203,Dianguirde
+Kayes,ML01,Diema,ML0102,Dioumara Koussata,ML010206,Dioumara Koussata
+Koulikouro,ML02,Kolokani,ML0205,Sagabala,ML020508,Sagabala
+Koulikouro,ML02,Kolokani,ML0205,Didieni,ML020501,Didieni
+Sikasso,ML03,Yanfolila,ML0306,Djiguiya De Koloni,ML030604,Djiguiya De Koloni
+Sikasso,ML03,Yorosso,ML0307,Mahou,ML030706,Mahou
+Sikasso,ML03,Yorosso,ML0307,Ourikela,ML030708,Ourikela
+Sikasso,ML03,Yorosso,ML0307,Yorosso,ML030709,Yorosso
+Segou,ML04,Baroueli,ML0401,Konobougou,ML040106,Konobougou
+Segou,ML04,Baroueli,ML0401,Kalake,ML040105,Kalake
+Segou,ML04,Baroueli,ML0401,Baraoueli,ML040101,Baraoueli
+Segou,ML04,Niono,ML0404,Pogo,ML040407,Pogo
+Segou,ML04,San,ML0405,Kava,ML040510,Kava
+Sikasso,ML03,Bougouni,ML0301,Yiridougou,ML030125,Yiridougou
+Koulikouro,ML02,Kolokani,ML0205,Sebecoro 1,ML020509,Sebecoro 1
+Koulikouro,ML02,Kolokani,ML0205,Guihoyo,ML020502,Guihoyo
+Segou,ML04,Bla,ML0402,Beguene,ML040201,Beguene
+Segou,ML04,Bla,ML0402,Bla,ML040202,Bla
+Segou,ML04,Bla,ML0402,Diaramana,ML040203,Diaramana
+Segou,ML04,Bla,ML0402,Dougouolo,ML040205,Dougouolo
+Segou,ML04,Bla,ML0402,Kazangasso,ML040208,Kazangasso
+Segou,ML04,Bla,ML0402,Kemeni,ML040209,Kemeni
+Segou,ML04,Bla,ML0402,Niala,ML040212,Niala
+Segou,ML04,Bla,ML0402,Somasso,ML040214,Somasso
+Segou,ML04,Bla,ML0402,Yangasso,ML040217,Yangasso
+Segou,ML04,Segou,ML0406,Togou,ML040630,Togou
+Segou,ML04,Segou,ML0406,Soignebougou,ML040628,Soignebougou
+Segou,ML04,Segou,ML0406,Sibila,ML040627,Sibila
+Segou,ML04,Segou,ML0406,Sansanding,ML040624,Sansanding
+Segou,ML04,Segou,ML0406,N'koumandougou,ML040619,Nkoumandougou
+Segou,ML04,Segou,ML0406,Massala,ML040617,Massala
+Koulikouro,ML02,Kati,ML0204,Kourouba,ML020419,Kourouba
+Koulikouro,ML02,Kati,ML0204,Bancoumana,ML020402,Bancoumana
+Koulikouro,ML02,Kati,ML0204,Niagadina,ML020425,Niagadina
+Segou,ML04,Segou,ML0406,Kamiandougou,ML040613,Kamiandougou
+Segou,ML04,Segou,ML0406,Boussin,ML040603,Boussin
+Segou,ML04,Segou,ML0406,Bellen,ML040602,Bellen
+Segou,ML04,Segou,ML0406,Baguindabougou,ML040601,Baguindabougou
+Segou,ML04,Macina,ML0403,Souleye,ML040310,Souleye
+Segou,ML04,Macina,ML0403,Sana,ML040309,Sana
+Segou,ML04,Macina,ML0403,Saloba,ML040308,Saloba
+Mopti,ML05,Djenne,ML0503,Ouro Ali,ML050310,Ouro Ali
+Mopti,ML05,Djenne,ML0503,Dandougou Fakala,ML050301,Dandougou Fakala
+Mopti,ML05,Douentza,ML0504,Petaka,ML050414,Petaka
+Mopti,ML05,Douentza,ML0504,Koubewel Koundia,ML050412,Koubewel Koundia
+Mopti,ML05,Douentza,ML0504,Dallah,ML050401,Dallah
+Mopti,ML05,Mopti,ML0506,Kounari,ML050608,Kounari
+Mopti,ML05,Mopti,ML0506,Konna,ML050605,Konna
+Mopti,ML05,Mopti,ML0506,Fatoma,ML050604,Fatoma
+Mopti,ML05,Mopti,ML0506,Dialloube,ML050603,Dialloube
+Mopti,ML05,Mopti,ML0506,Borondougou,ML050602,Borondougou
+Mopti,ML05,Mopti,ML0506,Bassirou,ML050601,Bassirou
+Sikasso,ML03,Bougouni,ML0301,Kola,ML030113,Kola
+Koulikouro,ML02,Kati,ML0204,Sanankoroba,ML020431,Sanankoroba
+Mopti,ML05,Koro,ML0505,Youdiou,ML050516,Youdiou
+Mopti,ML05,Koro,ML0505,Pel Maoude,ML050514,Pel Maoude
+Mopti,ML05,Koro,ML0505,Barapireli,ML050502,Barapireli
+Mopti,ML05,Koro,ML0505,Bamba,ML050501,Bamba
+Mopti,ML05,Bankass,ML0502,Lessagou Habe,ML050207,Lessagou Habe
+Mopti,ML05,Bandiagara,ML0501,Wadouba,ML050121,Wadouba
+Mopti,ML05,Bandiagara,ML0501,Pelou,ML050114,Pelou
+Mopti,ML05,Bandiagara,ML0501,Ondougou,ML050113,Ondougou
+Mopti,ML05,Bandiagara,ML0501,Metoumou,ML050112,Metoumou
+Mopti,ML05,Bandiagara,ML0501,Kende,ML050109,Kende
+Mopti,ML05,Bandiagara,ML0501,Doucoumbo,ML050107,Doucoumbo
+Mopti,ML05,Bandiagara,ML0501,Dandoli,ML050104,Dandoli
+Mopti,ML05,Bandiagara,ML0501,Borko,ML050103,Borko
+Mopti,ML05,Tenenkou,ML0507,Ouro Guire,ML050706,Ouro Guire
+Mopti,ML05,Tenenkou,ML0507,Ouro Ardo,ML050705,Ouro Ardo
+Mopti,ML05,Tenenkou,ML0507,Diafarabe,ML050701,Diafarabe
+Koulikouro,ML02,Kati,ML0204,Kalabancoro,ML020415,Kalabancoro
+Koulikouro,ML02,Kati,ML0204,Dogodouman,ML020411,Dogodouman
+Bamako,ML09,Bamako,ML0901,Commune IV,ML090104,Commune IV
+Tombouctou,ML06,Tombouctou,ML0605,Salam,ML060505,Salam
+Tombouctou,ML06,Dire,ML0601,Arham,ML060101,Arham
+Tombouctou,ML06,Dire,ML0601,Bourem Sidi Amar,ML060103,Bourem Sidi Amar
+Tombouctou,ML06,Dire,ML0601,Garbakoira,ML060106,Garbakoira
+Tombouctou,ML06,Dire,ML0601,Tinguereguif,ML060113,Tinguereguif
+Tombouctou,ML06,Goundam,ML0602,Adarmalane,ML060201,Adarmalane
+Tombouctou,ML06,Goundam,ML0602,Doukouria,ML060205,Doukouria
+Tombouctou,ML06,Goundam,ML0602,Issa Bery,ML060209,Issa Bery
+Tombouctou,ML06,Goundam,ML0602,Tele,ML060213,Tele
+Tombouctou,ML06,Goundam,ML0602,Tin Aicha,ML060215,Tin Aicha
+Tombouctou,ML06,Goundam,ML0602,Goundam Commune,ML060208,Goundam Commune
+Tombouctou,ML06,Gourma-Rharous,ML0603,Bambara Maoude,ML060301,Bambara Maoude
+Tombouctou,ML06,Gourma-Rharous,ML0603,Banikane,ML060302,Banicane
+Sikasso,ML03,Yanfolila,ML0306,Gouandiaka,ML030606,Gouandiaka
+Bamako,ML09,Bamako,ML0901,Commune III,ML090103,Commune III
+Bamako,ML09,Bamako,ML0901,Commune II,ML090102,Commune II
+Bamako,ML09,Bamako,ML0901,Commune VI,ML090106,Commune VI
+Tombouctou,ML06,Gourma-Rharous,ML0603,Rharous,ML060308,Rharous
+Tombouctou,ML06,Gourma-Rharous,ML0603,Serere,ML060309,Serere
+Tombouctou,ML06,Gourma-Rharous,ML0603,Gossi,ML060303,Gossi
+Tombouctou,ML06,Tombouctou,ML0605,Tombouctou,ML060506,Tombouctou
+Gao,ML07,Ansongo,ML0701,Ansongo,ML070101,Ansongo
+Gao,ML07,Bourem,ML0702,Bourem,ML070202,Bourem
+Menaka,ML10,Menaka,ML1003,Menaka,ML100301,Menaka
+Menaka,ML10,Anderamboukane,ML1001,Anderamboukane,ML100101,Anderamboukane
+Gao,ML07,Gao,ML0703,Anchawadi,ML070301,Anchawadi
+Gao,ML07,Gao,ML0703,Gao,ML070303,Gao
+Kidal,ML08,Kidal,ML0802,Anefif,ML080201,Anefif
+Kidal,ML08,Kidal,ML0802,Kidal,ML080203,Kidal
+Kidal,ML08,Abeibara,ML0801,Abeibara,ML080101,Abeibara
+Kidal,ML08,Tessalit,ML0803,Tessalit,ML080302,Tessalit
+Kidal,ML08,Tin-Essako,ML0804,Tin Essako,ML080401,Tin Essako
+Koulikouro,ML02,Dioila,ML0202,Guegneka,ML020209,Guegneka
+Gao,ML07,Ansongo,ML0701,Talataye,ML070105,Talataye
+Tombouctou,ML06,Tombouctou,ML0605,Lafia,ML060504,Lafia
+Tombouctou,ML06,Goundam,ML0602,Tonka,ML060216,Tonka
+Tombouctou,ML06,Dire,ML0601,Tindirma,ML060112,Tindirma
+Tombouctou,ML06,Dire,ML0601,Binga,ML060102,Binga
+Tombouctou,ML06,Niafunke,ML0604,Banikane Narhawa,ML060401,Banikane Narhawa
+Sikasso,ML03,Kolondieba,ML0303,Tiongui,ML030311,Tiongui
+Sikasso,ML03,Kadiolo,ML0302,Loulouni,ML030206,Loulouni
+Sikasso,ML03,Kadiolo,ML0302,Fourou,ML030203,Fourou
+Koulikouro,ML02,Dioila,ML0202,Kaladougou,ML020211,Kaladougou
+Mopti,ML05,Bandiagara,ML0501,Diamnati,ML050105,Diamnati
+Tombouctou,ML06,Niafunke,ML0604,N'gorkou,ML060406,Ngorkou
+Mopti,ML05,Mopti,ML0506,Ouroube Doude,ML050611,Ouroube Doude
+Mopti,ML05,Youwarou,ML0508,Dirma,ML050803,Dirma
+Mopti,ML05,Youwarou,ML0508,Deboye,ML050802,Deboye
+Segou,ML04,Niono,ML0404,Nampalari,ML040405,Nampalari
+Kayes,ML01,Kenieba,ML0104,Dialafara,ML010403,Dialafara
+Kayes,ML01,Bafoulabe,ML0101,Gounfan,ML010106,Gounfan
+Kayes,ML01,Kenieba,ML0104,Kassama,ML010408,Kassama
+Sikasso,ML03,Sikasso,ML0305,Finkolo Ganadougou,ML030512,Finkolo Ganadougou
+Sikasso,ML03,Sikasso,ML0305,Lobougoula,ML030526,Lobougoula
+Sikasso,ML03,Kolondieba,ML0303,Nangalasso,ML030309,Nangalasso
+Segou,ML04,San,ML0405,Fion,ML040506,Fion
+Mopti,ML05,Djenne,ML0503,Niansanari,ML050309,Niansanari
+Mopti,ML05,Mopti,ML0506,Soye,ML050615,Soye
+Mopti,ML05,Djenne,ML0503,Femaye,ML050305,Femaye
+Kayes,ML01,Bafoulabe,ML0101,Koundian,ML010108,Koundian
+Kayes,ML01,Bafoulabe,ML0101,Mahina,ML010109,Mahina
+Kayes,ML01,Kenieba,ML0104,Kenieba,ML010409,Kenieba
+Sikasso,ML03,Sikasso,ML0305,Zaniena,ML030543,Zaniena
+Sikasso,ML03,Sikasso,ML0305,Miniko,ML030527,Miniko
+Sikasso,ML03,Kolondieba,ML0303,Tousseguela,ML030312,Tousseguela
+Sikasso,ML03,Kolondieba,ML0303,Kolosso,ML030307,Kolosso
+Kayes,ML01,Kenieba,ML0104,Falea,ML010405,Falea
+Kayes,ML01,Kenieba,ML0104,Dabia,ML010402,Dabia
+Kayes,ML01,Kenieba,ML0104,Faraba,ML010406,Faraba
+Kayes,ML01,Kita,ML0105,Kobri,ML010516,Kobri
+Kayes,ML01,Bafoulabe,ML0101,Diokeli,ML010105,Diokeli
+Kayes,ML01,Bafoulabe,ML0101,Bamafele,ML010102,Bamafele
+Sikasso,ML03,Bougouni,ML0301,Koumantou,ML030114,Koumantou
+Sikasso,ML03,Bougouni,ML0301,Debelin,ML030104,Debelin
+Sikasso,ML03,Kolondieba,ML0303,Kolondieba,ML030306,Kolondieba
+Segou,ML04,San,ML0405,San Commune,ML040517,San Commune
+Kayes,ML01,Kita,ML0105,Kokofata,ML010517,Kokofata
+Kayes,ML01,Kita,ML0105,Koulou,ML010519,Koulou
+Kayes,ML01,Kenieba,ML0104,Kouroukoto,ML010410,Kouroukoto
+Kayes,ML01,Kita,ML0105,Djidian,ML010507,Djidian
+Kayes,ML01,Kita,ML0105,Sebekoro,ML010526,Sebekoro
+Sikasso,ML03,Bougouni,ML0301,Wola,ML030123,Wola
+Koulikouro,ML02,Dioila,ML0202,Massigui,ML020215,Massigui
+Sikasso,ML03,Sikasso,ML0305,Wateni,ML030540,Wateni
+Kayes,ML01,Kita,ML0105,Gadougou 2,ML010510,Gadougou 2
+Kayes,ML01,Kita,ML0105,Benkadi Founia,ML010503,Benkadi Founia
+Kayes,ML01,Kita,ML0105,Senko,ML010529,Senko
+Kayes,ML01,Kita,ML0105,Sirakoro,ML010530,Sirakoro
+Kayes,ML01,Kita,ML0105,Tambaga,ML010532,Tambaga
+Kayes,ML01,Bafoulabe,ML0101,Oualia,ML010111,Oualia
+Kayes,ML01,Kita,ML0105,Toukoto,ML010533,Toukoto
+Kayes,ML01,Kita,ML0105,Sefeto Ouest,ML010528,Sefeto Ouest
+Kayes,ML01,Kita,ML0105,Kourounikoto,ML010520,Kourounikoto
+Kayes,ML01,Kita,ML0105,Saboula,ML010525,Saboula
+Kayes,ML01,Kita,ML0105,Namala Guimba,ML010523,Namala Guimba
+Bamako,ML09,Bamako,ML0901,Commune I,ML090101,Commune I
+Gao,ML07,Bourem,ML0702,Tarkint,ML070204,Tarkint
+Gao,ML07,Bourem,ML0702,Temera,ML070205,Temera
+Menaka,ML10,Inekar,ML1002,Inekar,ML100201,Inekar
+Gao,ML07,Ansongo,ML0701,Tessit,ML070106,Tessit
+Gao,ML07,Gao,ML0703,N'tillit,ML070305,Ntillit
+Gao,ML07,Ansongo,ML0701,Bourra,ML070103,Bourra
+Gao,ML07,Ansongo,ML0701,Tin Hama,ML070107,Tin Hama
+Menaka,ML10,Tidermene,ML1004,Tidermene,ML100401,Tidermene
+Gao,ML07,Ansongo,ML0701,Bara,ML070102,Bara
+Gao,ML07,Gao,ML0703,Sony Aliber,ML070306,Sony Aliber
+Gao,ML07,Gao,ML0703,Gabero,ML070302,Gabero
+Gao,ML07,Gao,ML0703,Tilemsi,ML070307,Tilemsi
+Gao,ML07,Gao,ML0703,Gounzoureye,ML070304,Gounzoureye
+Kidal,ML08,Kidal,ML0802,Essouk,ML080202,Essouk
+Sikasso,ML03,Bougouni,ML0301,Sanso,ML030118,Sanso
+Kayes,ML01,Kita,ML0105,Bendougouba,ML010502,Bendougouba
+Kayes,ML01,Kita,ML0105,Boudofo,ML010504,Boudofo
+Kayes,ML01,Kita,ML0105,Kita Ouest,ML010515,Kita Ouest
+Sikasso,ML03,Koutiala,ML0304,Koutiala Commune,ML030416,Koutiala Commune
+Mopti,ML05,Tenenkou,ML0507,Kareri,ML050704,Kareri
+Segou,ML04,Niono,ML0404,Sokolo,ML040410,Sokolo
+Segou,ML04,Niono,ML0404,Diabaly,ML040401,Diabaly
+Koulikouro,ML02,Koulikoro,ML0206,Doumba,ML020602,Doumba
+Koulikouro,ML02,Kati,ML0204,Yelekebougou,ML020437,Yelekebougou
+Sikasso,ML03,Kolondieba,ML0303,Farako,ML030303,Farako
+Koulikouro,ML02,Dioila,ML0202,N'garadougou,ML020218,Ngaradougou
+Koulikouro,ML02,Kati,ML0204,Baguineda Camp,ML020401,Baguineda Camp
+Koulikouro,ML02,Koulikoro,ML0206,Tienfala,ML020608,Tienfala
+Segou,ML04,Baroueli,ML0401,Gouendo,ML040104,Gouendo
+Segou,ML04,Bla,ML0402,Falo,ML040206,Falo
+Segou,ML04,Baroueli,ML0401,Sanando,ML040108,Sanando
+Segou,ML04,Baroueli,ML0401,N'gassola,ML040107,Ngassola
+Segou,ML04,Bla,ML0402,Diena,ML040204,Diena
+Segou,ML04,Niono,ML0404,Mariko,ML040404,Mariko
+Segou,ML04,Niono,ML0404,Niono,ML040406,Niono
+Mopti,ML05,Djenne,ML0503,Kewa,ML050306,Kewa
+Sikasso,ML03,Koutiala,ML0304,Niantaga,ML030424,Niantaga
+Sikasso,ML03,Koutiala,ML0304,Koromo,ML030414,Koromo
+Segou,ML04,San,ML0405,Moribila,ML040511,Moribila
+Sikasso,ML03,Sikasso,ML0305,Danderesso,ML030503,Danderesso
+Sikasso,ML03,Sikasso,ML0305,Fama,ML030509,Fama
+Sikasso,ML03,Sikasso,ML0305,Kafouziela,ML030516,Kafoziela
+Sikasso,ML03,Sikasso,ML0305,Sikasso Commune,ML030536,Sikasso Commune
+Sikasso,ML03,Sikasso,ML0305,Kaboila,ML030515,Kaboila
+Koulikouro,ML02,Koulikoro,ML0206,Sirakorola,ML020607,Sirakorola
+Kayes,ML01,Kayes,ML0103,Sony,ML010327,Sony
+Sikasso,ML03,Kolondieba,ML0303,Kadiana,ML030304,Kadiana
+Koulikouro,ML02,Kati,ML0204,Dialakoroba,ML020407,Dialakoroba
+Segou,ML04,Bla,ML0402,Touna,ML040216,Touna
+Segou,ML04,Segou,ML0406,Katiena,ML040614,Katiena
+Segou,ML04,Bla,ML0402,Korodougou,ML040210,Korodougou
+Segou,ML04,Bla,ML0402,Fani,ML040207,Fani
+Segou,ML04,Segou,ML0406,Fatine,ML040612,Fatine
+Sikasso,ML03,Bougouni,ML0301,Sibirila,ML030119,Sibirila
+Sikasso,ML03,Kadiolo,ML0302,Kadiolo,ML030204,Kadiolo
+Sikasso,ML03,Kadiolo,ML0302,Misseni,ML030207,Misseni
+Kayes,ML01,Kayes,ML0103,Kemene Tambo,ML010313,Kemene Tambo
+Bamako,ML09,Bamako,ML0901,Commune V,ML090105,Commune V
+Tombouctou,ML06,Goundam,ML0602,Alzounoub,ML060202,Alzounoub
+Tombouctou,ML06,Gourma-Rharous,ML0603,Hamzakoma,ML060304,Hamzakona
+Tombouctou,ML06,Gourma-Rharous,ML0603,Inadiatafane,ML060306,Inadiatafane
+Tombouctou,ML06,Gourma-Rharous,ML0603,Ouinerden,ML060307,Ouinerden
+Gao,ML07,Ansongo,ML0701,Ouattagouna,ML070104,Ouattagouna
+Gao,ML07,Bourem,ML0702,Bamba,ML070201,Bamba
+Gao,ML07,Bourem,ML0702,Taboye,ML070203,Taboye
+Kidal,ML08,Abeibara,ML0801,Boghassa,ML080102,Boghassa
+Kidal,ML08,Abeibara,ML0801,Tinzawatene,ML080103,Tinzawatene
+Kidal,ML08,Tessalit,ML0803,Adjelhoc,ML080301,Adjelhoc
+Kidal,ML08,Tessalit,ML0803,Timtaghene,ML080303,Timtaghene
+Koulikouro,ML02,Dioila,ML0202,Tenindougou,ML020221,Tenindougou
+Tombouctou,ML06,Gourma-Rharous,ML0603,Haribomo,ML060305,Haribomo
+Tombouctou,ML06,Dire,ML0601,Tienkour,ML060111,Tienkour
+Mopti,ML05,Mopti,ML0506,Korombana,ML050606,Korombana
+Segou,ML04,Niono,ML0404,Dogofry,ML040402,Dogofry
+Koulikouro,ML02,Kati,ML0204,Kambila,ML020417,Kambila
+Koulikouro,ML02,Kati,ML0204,N'gabacoro,ML020423,Ngabacoro
+Koulikouro,ML02,Koulikoro,ML0206,Meguetan,ML020605,Meguetan
+Segou,ML04,Segou,ML0406,Samine,ML040623,Samine
+Segou,ML04,Niono,ML0404,Sirifila Boundy,ML040409,Sirifila Boundy
+Segou,ML04,Niono,ML0404,Kala Siguida,ML040403,Kala Siguida
+Segou,ML04,Niono,ML0404,Siribala,ML040408,Siribala
+Mopti,ML05,Djenne,ML0503,Togue Mourari,ML050312,Togue Mourari
+Mopti,ML05,Mopti,ML0506,Ouro Modi,ML050610,Ouro Modi
+Mopti,ML05,Mopti,ML0506,Koubaye,ML050607,Koubaye
+Mopti,ML05,Mopti,ML0506,Socoura,ML050614,Socoura
+Segou,ML04,San,ML0405,Tourakolomba,ML040524,Tourakolomba
+Sikasso,ML03,Sikasso,ML0305,Diomatene,ML030506,Diomatene
+Sikasso,ML03,Sikasso,ML0305,Zangaradougou,ML030542,Zangaradougou
+Koulikouro,ML02,Koulikoro,ML0206,Koula,ML020603,Koula
+Kayes,ML01,Kayes,ML0103,Guidimakan Keri Kaff,ML010309,Guidimakan Keri Kaff
+Segou,ML04,Segou,ML0406,Cinzana,ML040604,Cinzana
+Segou,ML04,San,ML0405,N'goa,ML040512,Ngoa
+Segou,ML04,San,ML0405,Siadougou,ML040518,Siadougou
+Sikasso,ML03,Kadiolo,ML0302,Dioumatene,ML030202,Dioumatene
+Kayes,ML01,Kayes,ML0103,Somankidy,ML010326,Somankidy
+Kayes,ML01,Kayes,ML0103,Same Diomboma,ML010323,Same Diomboma
+Kayes,ML01,Kayes,ML0103,Bangassi,ML010301,Bangassi
+Kayes,ML01,Kayes,ML0103,Liberte Dembaya,ML010317,Liberte Dembaya
+Segou,ML04,San,ML0405,Niasso,ML040514,Niasso
+Segou,ML04,San,ML0405,Sy,ML040521,Sy
+Segou,ML04,San,ML0405,Ouolon,ML040516,Ouolon
+Segou,ML04,San,ML0405,Teneni,ML040523,Teneni
+Segou,ML04,San,ML0405,Baramandougou,ML040501,Baramandougou
+Mopti,ML05,Mopti,ML0506,Sio,ML050613,Sio
+Mopti,ML05,Djenne,ML0503,Fakala,ML050304,Fakala
+Segou,ML04,San,ML0405,Somo,ML040519,Somo
+Segou,ML04,San,ML0405,Dah,ML040502,Dah
+Segou,ML04,Tominian,ML0407,Yasso,ML040712,Yasso
+Segou,ML04,Tominian,ML0407,Sanekuy,ML040709,Sanekuy
+Segou,ML04,Tominian,ML0407,Diora,ML040702,Diora
+Segou,ML04,Tominian,ML0407,Timissa,ML040710,Timissa
+Sikasso,ML03,Koutiala,ML0304,Konseguela,ML030413,Konseguela
+Tombouctou,ML06,Goundam,ML0602,Gargando,ML060207,Gargando
+Sikasso,ML03,Sikasso,ML0305,Niena,ML030531,Niena
+Koulikouro,ML02,Kati,ML0204,Safo,ML020429,Safo
+Sikasso,ML03,Bougouni,ML0301,Meridiela,ML030116,Meridiela
+Sikasso,ML03,Bougouni,ML0301,Dogo,ML030106,Dogo
